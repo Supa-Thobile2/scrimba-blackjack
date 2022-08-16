@@ -66,6 +66,13 @@ let sum = firstCard + secondCard;
 let isAlive = true;
 
 // 2. Flip its value to false in the appropriate code block
+
+
+// 1. Declare a variable called message and assign its value to an empty string
+
+let message = ''
+
+// 2. Reassign the message variable to the string we're logging out
 if (sum <= 20) {
     console.log("Do you want to draw a new card? 🙂")
     // isAlive = true;
